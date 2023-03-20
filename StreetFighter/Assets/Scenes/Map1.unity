@@ -134,7 +134,7 @@ GameObject:
   - component: {fileID: 620866986}
   - component: {fileID: 620866985}
   m_Layer: 0
-  m_Name: sf2_ryu-fa64a8ad41c5d9e57d8b387ac03fa277 (1)
+  m_Name: Background
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -220,7 +220,7 @@ GameObject:
   - component: {fileID: 747776194}
   - component: {fileID: 747776193}
   m_Layer: 0
-  m_Name: output-onlinegiftools_0
+  m_Name: E. Honda
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -325,11 +325,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 93f78e232c514b84db16461295d697a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  MoveSpeed: 10
+  MoveSpeed: 5
   JumpForce: 15
-  left: 0
-  right: 0
-  jump: 0
+  left: 97
+  right: 100
+  jump: 119
 --- !u!1 &1905662006
 GameObject:
   m_ObjectHideFlags: 0
