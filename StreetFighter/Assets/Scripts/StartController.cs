@@ -7,7 +7,7 @@ public class StartController : MonoBehaviour
 {
    public void Play()
     {
-        SceneManager.LoadScene("Game");
+        SceneManager.LoadScene("BackgroundSelect");
     }
 
     public void HowToPlay()
